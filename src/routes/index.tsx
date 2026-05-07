@@ -93,7 +93,7 @@ function Index() {
           <div className="flex items-center gap-2">
             <span className="text-2xl">🍴</span>
             <span className="font-display text-sm font-bold tracking-wide">
-              wswe
+              wgft (we gettin' fat tonight)
             </span>
           </div>
           <ThemeToggle />
