@@ -77,7 +77,7 @@ what-should-we-eat/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/what-should-we-eat.git
+git clone https://github.com/richelleadarlo/wgft-we-getting-fat-tonight.git
 ```
 
 ### 2. Navigate Into the Project
