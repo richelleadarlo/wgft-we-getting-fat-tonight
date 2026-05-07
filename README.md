@@ -85,7 +85,7 @@ git clone https://github.com/richelleadarlo/wgft-we-getting-fat-tonight.git
 ### 2. Navigate Into the Project
 
 ```bash
-cd what-should-we-eat
+cd wgft-we-getting-fat-tonight
 ```
 
 ### 3. Install Dependencies
@@ -121,18 +121,6 @@ npm run dev
 - AI-powered suggestions
 - Share result button
 - Online restaurant search integration
-
----
-
-## Design Inspiration
-
-Inspired by:
-
-- Spotify
-- Notion
-- Uber Eats
-- Food delivery apps
-- Modern glassmorphism UI trends
 
 ---
 
