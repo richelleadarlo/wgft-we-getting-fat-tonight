@@ -37,7 +37,6 @@ Users can add restaurant names, spin the chooser, and instantly get a random rec
 - **Tailwind CSS**
 - **Vite**
 - **React Hooks**
-- **Framer Motion**
 - **localStorage API**
 
 ---
