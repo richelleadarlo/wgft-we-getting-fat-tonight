@@ -26,8 +26,7 @@ Users can add restaurant names, spin the chooser, and instantly get a random rec
 
 > A sleek food decision-maker inspired by modern apps like Spotify, Notion, and food delivery platforms.
 
-![screenshot 1](public/ss1.png)
-![screenshot 2](public/ss2.png)
+
 
 ---
 
