@@ -1,4 +1,4 @@
-# 🍜 What Should We Eat? | wgft (we gettin' fat tonight)
+# 🍜 for all the big backs out there, wgft (we gettin' fat tonight)
 
 A fun and modern restaurant picker web app that helps users decide where to eat with a single click.
 
